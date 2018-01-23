@@ -7,4 +7,5 @@ green
 yellow
 orange
 red
+pink
 these are the colors of unicorn
